@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+  box-sizing: border-box;
+}
+
+#canvas {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+}
+
+#quote-box {
+  max-width: 60%;
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+  border-radius: 20px;
+  border: 5px solid black;
+}
+
+#text {
+  font-size: 2rem;
+  padding: 0 20px;
+}
+
+#author {
+  font-size: 1.4rem;
+  padding-top: 10px;
+}
+
+.buttons-box {
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  padding: 4px;
+  font-size: 2.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 20px;
+  height: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+  font-family: monospace;
+}
+
+footer:hover {
+  color: var(--footer-hover-color)
+}
