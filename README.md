@@ -1,7 +1,7 @@
 # Random Quote Generator
 A simple React web app that generates random quotes and allows users to tweet their favorite ones.
 
-![Random Quote Generator](images/random-quote-generator.png)
+![Random Quote Generator](public/random-quote-generator.png)
 
 ## Notable Implementations
 - **API Integration:** A refresh button to fetch data from an external API (Quotable) and update the UI accordingly.
