@@ -1,5 +1,5 @@
 # Random Quote Generator
-A simple React web app to fetch and display random quotes from Quotable (), an open source quotations API (https://api.quotable.io/random), and allow users to tweet their favorite ones.
+A simple React web app to fetch and display random quotes from Quotable, an open source quotations API (https://api.quotable.io/random), and allow users to tweet their favorite ones.
 
 ![Random Quote Generator](public/random-quote-generator.png)
 
